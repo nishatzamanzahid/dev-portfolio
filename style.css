@@ -8,6 +8,9 @@ h1{
     color: gray;
     text-align: center;
 }
+p{
+    font-size: 11px;
+}
 .gray{
     color: black;
 }
